@@ -1,9 +1,9 @@
 {
-  "name": "typescript-homework-module-3",
+  "name": "goit-advancedjs-hw-07",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "Roman Onishchenko <orm81zp@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.5"

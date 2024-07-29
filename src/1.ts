@@ -10,6 +10,7 @@ class Student {
 
 const mark = new Student("Mark", 24, "A");
 
+// Student { name: 'Mark', age: 24, grade: 'A' }
 console.log(mark);
 
 export {};

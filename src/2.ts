@@ -42,7 +42,7 @@ class Manager extends Employee {
 const eva = new Employee("Eva", "sales", 10000);
 const mark = new Manager("Mark", "sales", 10000);
 
-console.log(eva.getEmployeeDetails());
-console.log(mark.getEmployeeDetails());
+console.log(eva.getEmployeeDetails()); // Name: Eva, Department: sales, Salary: 10000
+console.log(mark.getEmployeeDetails()); // Name: Mark, Department: sales, Salary: 20000
 
 export {};
